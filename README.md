@@ -1,1 +1,3 @@
-READ ME FILE 
+READ ME FILE  for first C code.....
+
+
