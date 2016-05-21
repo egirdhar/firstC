@@ -2,3 +2,7 @@
 
    function f2 () {
    }
+
+   function f4 () {
+   
+   }
